@@ -153,3 +153,15 @@ video{
       transform: translateX(-100%);
     }
   }
+  button{
+    border-color: transparent;
+    border-width: 5px;
+    border-radius: 10px;
+    padding: 10px;
+
+  }
+  button:hover{
+    color: #6b3da7;
+    background-color: #2acce9;
+    border-color: #6b3da7;
+}
